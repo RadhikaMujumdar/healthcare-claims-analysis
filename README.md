@@ -52,7 +52,7 @@ healthcare-claims-analysis/
 
 **1. Clone and install**
 ```bash
-git clone https://github.com/YOUR_USERNAME/healthcare-claims-analysis.git
+git clone https://github.com/RadhikaMujumdar/healthcare-claims-analysis.git
 cd healthcare-claims-analysis
 pip install -r requirements.txt
 ```
