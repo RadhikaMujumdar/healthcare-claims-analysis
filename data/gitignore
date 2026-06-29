@@ -1,0 +1,6 @@
+data/claims.db
+outputs/*.csv
+__pycache__/
+*.pyc
+.DS_Store
+.env
